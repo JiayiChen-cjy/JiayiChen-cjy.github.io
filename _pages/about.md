@@ -128,7 +128,7 @@ hspace="10" wspace="20" src="../images/CCFC-EP25.png">
 <dd> CCF-C SCI-Q2 IF-2.84 (<strong> journal 《Expert System》 </strong>), 2025</dd>
 </dl> -->
 
-<hr>
+<!-- <hr> -->
 
 <dl>
   <dt><img align="left" width="400"
@@ -205,6 +205,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 </div>
 
 <!-- <div style="clear: both;"></div> -->
+<hr>
 
 # 🎡 Service
 
