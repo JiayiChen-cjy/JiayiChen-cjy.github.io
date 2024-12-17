@@ -22,8 +22,8 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-  name: "Wei Dai"
-  avatar: "images/android-chrome-512x512.png"
+  name: "Jiayi Chen"
+  avatar: "./images/android-chrome-512x512.png"
   bio: "Undergraduate Student"
   location: "Xian, China"
   employer:
