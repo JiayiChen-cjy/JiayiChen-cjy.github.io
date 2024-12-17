@@ -6,59 +6,58 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wei Dai Homepage"
-description              : "22012100039@stu.xidian.edu.cn"
-repository               : "WeiDai-David/WeiDai-David.github.io"
+title: "Jiayi Chen Homepage"
+description: "22012100031@stu.xidian.edu.cn"
+repository: "JiayiChen-cjy/JiayiChen-cjy.github.io"
 #"David-want-to-fly/WeiDai.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn: true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification: # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification: # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Wei Dai"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate Student"
-  location         : "Xian, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "22012100039@stu.xidian.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :  "WeiDai-David"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  name: "Wei Dai"
+  avatar: "images/android-chrome-512x512.png"
+  bio: "Undergraduate Student"
+  location: "Xian, China"
+  employer:
+  pubmed:
+  googlescholar: # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email: "22012100031@stu.xidian.edu.cn"
+  researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "JiayiChen-cjy"
+  google_plus:
+  keybase:
+  instagram:
+  impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm:
+  linkedin: # e.g., "linkedin username"
+  dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid: # e.g., "https://orcid.org/xxxx"
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  twitter:
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
 
 # Reading Files
 include:
@@ -98,14 +97,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -128,17 +125,14 @@ defaults:
       layout: default
       author_profile: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
@@ -154,7 +148,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
