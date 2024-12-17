@@ -198,8 +198,6 @@ hspace="10" wspace="20" src="../images/patent3.png">
 <ul>
   <li><em></em> ✨✨✨ <strong>National level</strong> Core member of "Intelligent Sports Vision - Sports Training Feedback System Based on Deep Learning"<li>
   <li><em></em> ✨✨✨ <strong>National level</strong> Leader of "Unmanned Safety Operation Monitoring, Binding, and Emergency Command System"</li>
-<!--   <li><em></em> ✨✨✨ College Student Computer Innovation Competition <strong>National level</strong> third prize.</li>
-  <li><em></em> ✨✨✨ mathematical contest in modeling <strong>provincial level</strong> second prize.</li> -->
   <li><em></em> ✨✨✨ Xi'an University of Electronic Science and Technology <strong>school level</strong> scholarship.</li>
 </ul>
 </div>
@@ -212,6 +210,8 @@ hspace="10" wspace="20" src="../images/patent3.png">
 ## Conference Committee Member
 
 - Reviewer for ICCV'2025
+
+<div style="clear: both;"></div>
 
 # 📖 Educations
 
