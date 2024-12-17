@@ -210,8 +210,7 @@ hspace="10" wspace="20" src="../images/patent3.png">
 ## Conference Committee Member
 
 - Reviewer for ICCV'2025
-
-<div style="clear: both;"></div>
+- Reviewer for ICML'2025
 
 # 📖 Educations
 
