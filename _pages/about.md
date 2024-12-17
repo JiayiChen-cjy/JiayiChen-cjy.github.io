@@ -205,14 +205,12 @@ hspace="10" wspace="20" src="../images/patent3.png">
 </div>
 
 <!-- <div style="clear: both;"></div> -->
-<hr>
 
-<!-- # 🎡 Service
+# 🎡 Service
 
 ## Conference Committee Member
 
-- Reviewer for ICLR'2025
-- Reviewer for CVPR'2025 -->
+- Reviewer for ICCV'2025
 
 # 📖 Educations
 
